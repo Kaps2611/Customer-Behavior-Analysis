@@ -22,9 +22,9 @@ This project analyzes customer shopping behavior using transactional data to unc
 
 ## 🔄 Steps (Project Workflow):
 - Data Loading (Python)
-  -Loaded the dataset using pandas.
-  -Performed initial inspection using .info() and .describe().
+  - Loaded the dataset using pandas.
+  - Performed initial inspection using .info() and .describe().
 - Exploratory Data Analysis (EDA)
-  Analyzed distributions, trends, and relationships.
-  Studied spending patterns, ratings, discounts, and subscriptions.
+  - Analyzed distributions, trends, and relationships.
+  - Studied spending patterns, ratings, discounts, and subscriptions.
 
